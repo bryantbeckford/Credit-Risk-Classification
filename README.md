@@ -1,4 +1,4 @@
-# Unit 12 - Credit Risk Classification
+# Credit Risk Classification
 
 ![Credit Risk](Images/12-homework-image.png)
 
@@ -193,6 +193,3 @@ To receive all points, your code must:
 
 * Make sure to include appropriate commit messages in your files.
 
-- - -
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
